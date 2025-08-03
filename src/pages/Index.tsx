@@ -84,12 +84,8 @@ const Index = () => {
                 className="h-16 w-16 object-contain"
               />
               <div>
-                <h1 className="text-2xl font-bold font-montserrat text-red-600">
-                  РОССИЙСКИЙ ПОЖАРНО-СПАСАТЕЛЬНЫЙ КОЛЛЕДЖ
-                </h1>
-                <p className="text-blue-800 font-semibold">
-                  Служим Отечеству • Спасаем жизни • Защищаем будущее
-                </p>
+                <h1 className="text-2xl font-bold font-montserrat text-red-600">ВОСКРЕСЕНСКИЙ КОЛЛЕДЖ</h1>
+                <p className="text-blue-800 font-semibold">Структурное подразделение №2</p>
               </div>
             </div>
             <div className="text-right">
